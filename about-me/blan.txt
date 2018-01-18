@@ -1,1 +1,2 @@
 born in : Wuhan
+Animal: Dog

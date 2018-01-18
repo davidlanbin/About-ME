@@ -1,2 +1,3 @@
 born in : Wuhan
 Animal: Dog
+Color: Green
